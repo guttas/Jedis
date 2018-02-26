@@ -1,0 +1,7 @@
+*.pyc
+*.meta
+*.index
+Udacity/Projects/tv-script-generation/save.data-00000-of-00001
+*.DS_Store
+Study/
+Udacity/Projects/tv-script-generation/.ipynb_checkpoints/
